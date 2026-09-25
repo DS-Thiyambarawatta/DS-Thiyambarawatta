@@ -1,70 +1,66 @@
-# 👋 Hi, I'm DS-Thiyambarawatta
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+DS-Thiyambarawatta+%F0%9F%91%8B;IT+Student+%7C+Developer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning+%26+Building+Every+Day+%F0%9F%9A%80" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hello%20There!%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=20" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+DS-Thiyambarawatta;Software+Developer;Always+Learning+New+Things;Welcome+to+my+Profile!" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
-
-🎓 I'm an IT student passionate about technology and software development.
-
-💻 Interested in Web Development, Networking, and Software Development.
-
-🌱 Currently learning and improving my programming skills.
-
-🎯 My goal is to become a skilled Full-Stack Developer.
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,photoshop" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DS-Thiyambarawatta&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Thiyambarawatta&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### 🚀 About Me
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm continuously learning new technologies
+- 💬 Ask me about anything tech-related
+- 📫 Reach me via GitHub
 
 ---
 
-## 🔥 GitHub Streak
+### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DS-Thiyambarawatta&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DS-Thiyambarawatta/DS-Thiyambarawatta/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,git,github,vscode,mysql" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/DS-Thiyambarawatta">
-    <img src="https://img.shields.io/badge/GitHub-DS--Thiyambarawatta-181717?style=for-the-badge&logo=github" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DS-Thiyambarawatta&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DS-Thiyambarawatta&theme=radical&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Thiyambarawatta&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-Thiyambarawatta&theme=react-dark&hide_border=true" width="90%"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/DS-Thiyambarawatta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
-</p>
+<div align="center">
 
-<p align="center">
-  🚀 Thanks for visiting my profile!
-</p>
+![Visitor Count](https://profile-counter.glitch.me/DS-Thiyambarawatta/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+</div>
